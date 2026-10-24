@@ -14,9 +14,10 @@ Para que el modelo corra correctamente, descarga el dataset y coloca el archivo 
 la carpeta de forecasting
 
 asi mas o menos debe de quedar la estructura:
-IA_practica3/
-├── forecasting/
-│   └── main.py
+```text
+IA_practica3/ 
+├── forecasting/ 
+│   └── main.py 
 └── train.csv
 ------------------------------------------------------------------------------------------------------------------------------------
 Practica de algoritmos de busqueda BFS Y A*

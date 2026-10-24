@@ -20,8 +20,6 @@ IA_practica3/
 │   └── main.py 
 └── train.csv
 
-### Sobre el modelo de Forecasting y los resultados
-
 Para esta práctica utilicé el algoritmo HistGradientBoostingRegressor de la librería `scikit-learn` para predecir las ventas futuras de los productos. 
 
 El programa toma el dataset original y genera variables nuevas. Básicamente se fija en cuánto se vendió hace 1, 7 y 14 días, y también extrae datos de la fecha qué día de la semana y mes es para que el modelo pueda encontrar patrones.
